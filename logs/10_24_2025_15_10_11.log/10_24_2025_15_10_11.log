@@ -1,0 +1,4 @@
+[2025-10-24 15:10:13,315] 8 root INFO - Starting the ML Project Application
+[2025-10-24 15:10:13,315] 20 root INFO - Reading mysql databases started
+[2025-10-24 15:10:13,323] 28 root INFO - Connection established<pymysql.connections.Connection object at 0x0000023D2D6EFB60>
+[2025-10-24 15:10:13,331] 14 root INFO - An exception occurred

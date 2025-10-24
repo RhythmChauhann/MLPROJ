@@ -1,0 +1,5 @@
+[2025-10-24 15:25:40,074] 8 root INFO - Starting the ML Project Application
+[2025-10-24 15:25:40,075] 20 root INFO - Reading mysql databases started
+[2025-10-24 15:25:40,086] 28 root INFO - Connection established<pymysql.connections.Connection object at 0x000001AD415CFB60>
+[2025-10-24 15:25:40,131] 30 root INFO - Reading completed mysql database
+[2025-10-24 15:25:40,149] 38 root INFO - Data Ingestion is Completed
